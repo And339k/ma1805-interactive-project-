@@ -1,3 +1,5 @@
+https://and339k.github.io/ma1805-interactive-project-/
+
 With my website I wanted to implument sound and music in some way and some shape or form as It is something which has been quite important and fundamental towards me as a person in my opinion and I believe its something cool and interesting to interact with in terms of sound and coding.
  So I though it would be interesting to create a digital sound board or like the equivalent towards a drum machine online in which people could use in order conjure up a drum pattern.
  similar to like drum patterns and beats in like hip hop music I created the drum machine to look more nostalgic like an old drum machine so I had to look at multiple models for drum machines and then I saw one from 1986. I wanted to imbue a sense of nostalgia and make it look like a retro piece of technology. I had to constantly search how to add boxes and formats and colours in their positioning. Also adding the sounds without script and only html is hard as I had to download these sounboards from these websites.
@@ -17,4 +19,5 @@ hi hat https://pixabay.com/sound-effects/hi-hat-231042/
 crash https://pixabay.com/sound-effects/crash-7075/
 
 crash cymbal https://pixabay.com/sound-effects/tr707-crash-cymbal-241376/
+
 
